@@ -8,3 +8,5 @@ num <- 2
 
 ## a fraction
 num/dem
+
+1+ den + num
