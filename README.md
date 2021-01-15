@@ -2,8 +2,6 @@
 
 test site for trying out some functionality (class w/ mark)
 
-## Level 2 header
-You can make words bolds with 2 asterisks or underscores like **this** or __this__
+## Push/Pull
 
-### Level 3
-
+We'll modify this file, commit it, and then pull it down to local computer via pull
